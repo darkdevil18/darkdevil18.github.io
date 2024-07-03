@@ -1,14 +1,14 @@
 
-# Data Scientist | Machine Learning Engineer | AI Enthusiast
+# Data Scientist
 
 ## Introduction:
 I'm a data science enthusiast with a postgraduate degree in mathematics. Alongside my passion for data science and artificial intelligence, I thrive on tackling algorithmic challenges and honing my problem-solving skills on platforms like LeetCode and other coding platforms. With a solid foundation in mathematical principles and a knack for coding, I'm dedicated to leveraging these skills to drive innovation and make a positive impact. Let's connect and collaborate on meaningful projects at the nexus of data science, AI, and algorithmic problem-solving!
 
 ## Contact:
 - **Email**:[barikdibyasampad@gmail.com](mailto:barikdibyasampd@gmail.com)
-- **LinkedIn**: [Dibya Sampad Barik](https://www.linkedin.com/in/dsbarik/)
-- **GitHub**: [Dibya Sampad Barik](https://www.github.com/darkdevil18)
-- **Kaggle**: [Dibya Sampad Barik](https://www.kaggle.com/darkdevil18)
+- **LinkedIn**: [https://www.linkedin.com/in/dsbarik/](https://www.linkedin.com/in/dsbarik/)
+- **GitHub**: [https://www.github.com/darkdevil18](https://www.github.com/darkdevil18)
+- **Kaggle**: [https://www.kaggle.com/darkdevil18](https://www.kaggle.com/darkdevil18)
 
 ## 📚 Education:
 - **M.Sc. in Mathematics** from **Central University of Jharkhand, Ranchi** (2021-2023)
