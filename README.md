@@ -1,20 +1,30 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dibya Sampad Barik
 
---------------------------------------------------------
+# Data Scientist | Machine Learning Engineer | AI Enthusiast
 
-Hello! I'm **Dibya Sampad Barik**, a data science enthusiast with a postgraduate degree in mathematics. Alongside my passion for data science and artificial intelligence, I thrive on tackling algorithmic challenges and honing my problem-solving skills on platforms like LeetCode and other coding platforms. With a solid foundation in mathematical principles and a knack for coding, I'm dedicated to leveraging these skills to drive innovation and make a positive impact. Let's connect and collaborate on meaningful projects at the nexus of data science, AI, and algorithmic problem-solving!
+## Introduction:
+I'm a data science enthusiast with a postgraduate degree in mathematics. Alongside my passion for data science and artificial intelligence, I thrive on tackling algorithmic challenges and honing my problem-solving skills on platforms like LeetCode and other coding platforms. With a solid foundation in mathematical principles and a knack for coding, I'm dedicated to leveraging these skills to drive innovation and make a positive impact. Let's connect and collaborate on meaningful projects at the nexus of data science, AI, and algorithmic problem-solving!
 
-* ✉️  You can contact me at [barikdibyasampad@gmail.com](mailto:barikdibyasampad@gmail.com)
-* 🧠  I'm currently learning **Machine Learning** from various platforms as per availability of quality resources.
-* 🤝  I'm open to collaborate on **Data Analysis** and **Machine Learning**.
+## Contact:
+- **Email**:[barikdibyasampad@gmail.com](mailto:barikdibyasampd@gmail.com)
+- **LinkedIn**: [Dibya Sampad Barik](https://www.linkedin.com/in/dsbarik/)
+- **GitHub**: [Dibya Sampad Barik](https://www.github.com/darkdevil18)
+- **Kaggle**: [Dibya Sampad Barik](https://www.kaggle.com/darkdevil18)
 
-# 📚 Education:
-| Degree | Year | Institute | Place |
-| :-------: | :-----: | :-------- | :------ |
-| MSc Mathematics| 2021-2023 | Central University of Jharkhand | Ranchi, Jharkhand, India |
-| BSc Mathematics | 2018-2021 | B.J.B. Autonomous College | Bhubaneswar, Odisha, India |
+## 📚 Education:
+- **M.Sc. in Mathematics** from **Central University of Jharkhand, Ranchi** (2021-2023)
+- **B.Sc. in Mathematics** from **Buxi Jagabnadhu Bidyadhar Autonomous College, Bhubaneswar** (2018-2021)
 
-# 🎓 Courses:
+
+## Techincal Skills:
+- **Programming Languages**: Python, R, C, C++
+- **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Seaborn, Tidyverse, ggplot2
+- **Machine Learning Libraries**: Scikit-learn, TensorFlow, Keras
+- **IDEs**: Jupyter Notebook, Google Colab, RStudio, Visual Studio Code
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Windows, Linux
+
+
+## 🎓 Courses:
 - **Google Data Analytics by Google on Coursera**. Certificate earned at June 3, 2023
 
 # 🏆 Achievements:- 
