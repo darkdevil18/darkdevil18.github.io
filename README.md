@@ -11,8 +11,9 @@ I'm a data science enthusiast with a postgraduate degree in mathematics. Alongsi
 - **Kaggle**: [https://www.kaggle.com/darkdevil18](https://www.kaggle.com/darkdevil18)
 
 ## 📚 Education:
-- **M.Sc. in Mathematics** from **Central University of Jharkhand, Ranchi** (2021-2023)
-- **B.Sc. in Mathematics** from **Buxi Jagabnadhu Bidyadhar Autonomous College, Bhubaneswar** (2018-2021)
+- **M.Sc. in Computer Science (Big Data Analytics)** from **Central University of Rajsthan, Ajmer, Rajasthan** (2024-2026)
+- **M.Sc. in Mathematics** from **Central University of Jharkhand, Ranchi, Jharkhand** (2021-2023)
+- **B.Sc. in Mathematics** from **Buxi Jagabnadhu Bidyadhar Autonomous College, Bhubaneswar, Odisha** (2018-2021)
 
 
 ## Techincal Skills:
